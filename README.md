@@ -14,6 +14,6 @@ App主畫面
 
 ![image](https://github.com/jaylee840831/google-play-store-crawling/blob/master/%E9%96%8B%E5%95%9F%E9%A1%AF%E7%A4%BA%E6%96%BC%E4%B8%8A%E6%96%B9%E7%9A%84%E6%AC%8A%E9%99%90.jpg)
 
-爬取資料
+爬取gogle play商店app資料
 
 ![image](https://github.com/jaylee840831/google-play-store-crawling/blob/master/%E7%88%AC%E5%8F%96%E8%B3%87%E6%96%99.jpg)
